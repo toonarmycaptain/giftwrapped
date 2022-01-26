@@ -4,7 +4,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="giftwrapped-toonarmycaptain",
+    name="giftwrapped",
     version="0.0.1",
     author="David Antonini",
     author_email="toonarmycaptain@hotmail.com",
